@@ -258,9 +258,9 @@ body {
   justify-content: space-between;
   background: #fff;
 }
-.menu_item_vertical {
-  width: 100% !important;
-}
+.menu_item_vertical { 
+  width: 100% !important; 
+} 
 .menu_item_image {
   width: 55%;
   object-fit: cover;
